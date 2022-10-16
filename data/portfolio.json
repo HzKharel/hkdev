@@ -23,9 +23,23 @@
     {
       "id": "1",
       "title": "Hosted Portainer",
-      "description": "Web Design",
-      "imageSrc": "https://dev.to/codesphere/getting-started-with-docker-42b",
+      "description": "Dev Ops",
+      "imageSrc": "https://res.cloudinary.com/practicaldev/image/fetch/s--RkhhbXIh--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ycpitdwj8hirds426gtw.png",
       "url": "https://portainer.harikharel.dev/"
+    },
+    {
+      "id": "2",
+      "title": "Hosted SQLPad",
+      "description": "Database",
+      "imageSrc": "https://thumbs.dreamstime.com/b/sql-database-banner-colorful-plexus-design-software-technology-vector-illustration-online-offline-courses-coding-166124890.jpg",
+      "url": "https://portainer.harikharel.dev/"
+    },
+    {
+      "id": "3",
+      "title": "Hosted VS Code",
+      "description": "Code Editor",
+      "imageSrc": "https://www.jadeglobal.com/sites/default/files/2020-04/blog-banners-visual-studio-code-min.jpg",
+      "url": "https://code.harikharel.dev/"
     }
   ],
   "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
