@@ -40,6 +40,20 @@
       "description": "Code Editor",
       "imageSrc": "https://www.jadeglobal.com/sites/default/files/2020-04/blog-banners-visual-studio-code-min.jpg",
       "url": "https://code.harikharel.dev/"
+    },
+    {
+      "id": "4",
+      "title": "Git Lab",
+      "description": "VCS",
+      "imageSrc": "https://about.gitlab.com/nuxt-images/open-graph/open-graph-gitlab.png",
+      "url": "https://gitlab.harikharel.dev/"
+    },
+    {
+      "id": "5",
+      "title": "Apache Superset",
+      "description": "Business Intelligence",
+      "imageSrc": "https://miro.medium.com/max/1200/1*ZspvzFiFizHwcPzN09h6sw.png",
+      "url": "https://superset.harikharel.dev/"
     }
   ],
   "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
